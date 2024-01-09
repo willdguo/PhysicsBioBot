@@ -1,0 +1,455 @@
+I was throwing a tennis ball up and down on the car ride to Target for my family's weekly
+shopping run, dutifully practicing my hand-eye coordination. Yet, I found that whenever the car
+turned, I would always fumble the ball. As a proficient catcher, I knew something was up. After
+conducting numerous experiments in a Target shopping cart, 7-year-old me had unknowingly
+confirmed the concepts of acceleration and Newton's First Law.
+I was introduced to physics through my investigations of the curious phenomena all around me
+— ice freezing from top to bottom, paper clips sinking in soapwater, and gyro toys lighting up
+when in contact with metallic surfaces. Through Science Olympiad, Science Bowl, and middle
+school physics courses, I became fascinated with understanding and assigning terms to
+concepts that I had stumbled upon years prior.
+In 8th grade, my sister brought to our dinner table the infamous plank-on-rollers physics
+problem, inciting hours of debate and discussion and forever igniting my obsession with
+Olympiad physics. In my first few years of competitive physics, I struggled to fully grasp more
+advanced topics and found many physics problems impossible to solve. Yet, motivated by my
+passion for physics, I pushed on. I pored over college textbooks, attended online physics
+communities, consulted mentors, studied on MIT OCW, trained on practice problems, and led
+my school's Physics Club. I often spent weeks tackling a problem or exploring alternate paths to
+an answer on car rides, evening jogs, and in my dreams.
+I started to more clearly comprehend the physical world. I learned to calculate the kinematics of
+everything from cars and rolling spheres to oscillating charges and elliptically orbiting planets. I
+bashed out proofs 10+ times for Carnot engines, Coriolis forces, Kepler's laws, and relativistic
+momentum, understanding how the universe worked through each iteration. My infatuation with
+physics intensified after seeing the world with such satisfying clarity.
+I'm truly honored to be a member of the 2023 U.S. Physics Team, and I cannot wait to discover
+and learn even more about our physical world.
+I couldn't have done it without the help of those who supported me along the way. Thank you to
+Dr. Sanhita and Dr. Chaudhri for solidifying my fundamental understanding of physics. Thank
+you to Dr. Tang for guiding me through the complexities of physics with rigor and accuracy. And
+lastly, thanks to my family for providing me with endless inspiration and motivation for exploring
+physics.
+
+My journey in physics started during my middle school years of Science
+Olympiad. When I was younger, I participated in competitions such as Mathcounts and AMC,
+but nothing science-related. At the end of my 7th grade year, I tried out for the Science
+Olympiad team at my school. As a rookie to the program, I wasn't sure which events I wanted to
+do, and ended up choosing a few physics-related events since they seemed interesting.
+Throughout the year I gained interest in the field by learning about mechanics in Machines,
+electricity and magnetism in Circuit Lab, and a bit of thermodynamics in Density Lab. I came to
+realize that physics had put to application one of my biggest strengths in rigorous math, as well
+as guided my intuition towards the world. As a few of my friends and I have joked, physics was
+just “math with pictures.” Something about discovering the fundamental principles of the
+universe and how they fit together was extremely exciting, which led me to pursue this interest
+and take my first F=ma exam. Needless to say, my lack of experience as a first-year student
+didn't earn me an ideal ranking, but it was a valuable experience.
+I attended Troy High School in Fullerton, CA, for its extremely strong Science Olympiad program
+as well as the extensive math courses offered there. This was one of the best decisions I have
+ever made. For those who already know, Troy is extremely work-intensive, and anyone without
+decent time-management skills will struggle in this school. However, it was just the right difficulty
+for me to maintain my grades as well as have spare time to socialize and enjoy myself. I was
+able to build much more interest and improve my skills in physics.
+
+I have always been fascinated by what variables compel things to happen. The inner
+workings of each facet of life have always captured my imagination. When I discovered the field of
+physics, I felt as if I had finally found what I was looking for. I had hoped to find something that could
+explain every phenomena, and physics does just that.
+In fifth grade, I did a presentation on wormholes after watching the movie Interstellar. To
+prepare, I read the book The Science of Interstellar, which introduced me to the vast world of
+theoretical physics. It piqued my curiosity and opened the door to my physics journey. When I
+was in tenth grade, I discovered the US Physics Olympiad competitions. While I was preparing for
+those competitions, I uncovered deep connections between numerous branches of physics. The
+interwovenness of these subjects catalyzed my interest. The following subjects were all intertwined:
+mechanics, thermodynamics, electromagnetism, and relativity.
+Each one of these new discoveries captivated me, and each problem I contemplated
+motivated me to explore more. For example, the relation between mass and gravity in mechanics is
+analogous to the relationship between charge and the electric force in electromagnetism. As a result,
+many of the methods used to solve equations involving gravity could also be used to solve equations
+in electromagnetism. Relativity is also almost entirely built on concepts in classical mechanics.
+Connections like these that appear throughout physics are what makes the subject so exhilarating.
+Now, as I delve deeper into the study of how things work, more theories become intertwined.
+In the past, the giants of the field put all of our knowledge of physics into one monumental equation:
+the Standard Model Equation of Motion. This incredibly abstract formula can, in theory, explain all
+phenomena associated with three of the four fundamental forces of the universe. As I approach the
+future, I dream of exploring the driving machinery of the universe and finally reaching the goal of
+explaining everything.
+Finally, I would like to thank a few individuals. Thank you to my parents and the science and
+mathematics community at Buchholz for being ever so supportive all the time. Thank you to Mr.
+Frazer for creating that wonderful environment of learning. Thank you to Dr. Jie Gu for the in-depth
+explanations to my many questions. Last but definitely not least, a special thanks to Mr. Moody for
+introducing me to and teaching me physics, for organizing, proctoring, and creating opportunities to
+participate in Olympic physics, and for entertaining my ridiculous theories. Without these people, I
+would've had no chance of making it this far, so again, thank you all so much for the support.
+
+Stuffed into an Economy class seat, with the guy next to me spilling his coffee
+all over the floor, and the baby two rows back screaming its way through the air, I couldn't have
+been happier.
+During this flight I took last summer, I was as giddy as a 5-year-old on their birthday from the
+moment the engines powered on. Unfazed by the lack of in-flight entertainment, I spent the flight
+gazing at the physics experiment unfolding out the window. The wings flexed and danced with
+Newton's laws to keep us afloat in the air. Condensation blanketed the smooth surface of the
+wings, wisps of delicate mist governed by Bernoulli's law. As we banked in a turn, the wingtips
+piercing straight into the smooth blue sky, I sat firmly in my seat instead of tumbling into the
+aisle—the marvelous effect of non-inertial reference frames.
+A decade earlier, I was obsessed with a different type of plane. My second-grade self would
+spend weekends creating one fold after another in pieces of blank white paper, in awe by the
+empty canvases of endless possibilities. When I threw my paper planes down the slope in front
+of my home, I would watch as some glided gracefully through the air while others took a direct
+nosedive into the pavement. For years, even as I innovated my airplanes to fly longer and
+faster, why they flew always remained a mystery.
+In the early days of the pandemic, I finally found an answer. Quarantined and impossibly bored,
+I pulled a dusty physics textbook out of my cabinet and started flipping through the pages.
+Initially, I had no clue what I was reading; but as I continued, examining theorems and analyzing
+figures, the laws that governed the world around me began to materialize. Soon, I knew why the
+wind blew, why a stream of water from a tap narrowed as it fell, why I felt the crunch of frost
+under my feet on chilly fall mornings. And as I read, I learned that the mystery of flight that had
+puzzled me for so long wasn't a mystery, after all—it was physics.
+Physics opened my eyes to the world, and I'm not looking back.
+A huge thank you to Ms. Ruda for supporting me throughout my physics olympiad journey. Also,
+I am infinitely grateful to Ms. Edstrom, my physics teacher, for showing me that there's so much
+more to physics than meets the eye. It's an honor to be apart of this amazing physics
+community, and I can't wait to meet everyone at camp!
+
+“If an apple falls, does the moon fall too?”
+I've learned gravity three times for this question.
+It all started with Michio Kaku's gesticulative retelling of Newton's brilliance. I thought the answer
+was obvious: no, the moon can't be falling since it's always floating in the sky.
+The moon, as it turns out, is not just floating in the sky like a balloon. It's a massive rock hurtling
+through space at unbelievable speeds. And just like an apple falling from a tree, the moon is
+constantly falling through space, locked in an intricate dance with our planet that never quite
+reaches the ground. That was the first time I thought I had laid that question to rest.
+Years later, in my 8th-grade science class, from Tycho and Kepler, I found descriptive laws for
+planetary orbits. It was a captivating framework that shed light on the behavior of celestial
+bodies, apparently closing the case for me once and for all.
+But that was not the end.
+In my freshman year, the COVID-19 pandemic granted me an abundance of free time,
+prompting me to explore a plethora of online physics resources. Armed with Newton's laws and
+armed with time, I delved into the realm of differential equations, seeking mathematical certainty.
+Through this pursuit, I eventually arrived at the belief that, much like an apple, the moon does
+indeed fall.
+Yet, even with this conviction, I still can't be sure. The captivating realms of general relativity and
+quantum gravity introduce further complexities and perspectives to consider.
+For all its elegance and beauty, physics can be a humbling subject. No matter how much I think
+I know, there's always more to discover, more to explore, and more to learn. It's a never-ending
+journey, one that requires a willingness to unlearn old ideas and embrace new ones.
+But I'm also grateful for the teachers who have guided me along the way. To Mr. Reid, for being
+an inspiring teacher who has taught me there is so much to rediscover and reconsider, to Ms.
+Liu, for showing me the beauty of mathematics and physics, and to the AAPT, for providing me
+with a community of fellow physics enthusiasts, I owe a debt of gratitude.
+With their help, I aspire to continue my never-ending quest for knowledge, to embrace both the
+familiar and the unexpected, and to embark on a perpetual journey of exploration and
+rediscovery in the wondrous realm of physics.
+
+Unlike many of my fellow campers, my physics competition journey didn't start with math.
+Neither did it start with HRK.
+Physics has always come naturally to me. I've liked asking “why?” ever since I was little, and my
+parents often talk about how I'd bombard them with questions, even as a toddler. One of their
+favorite anecdotes is how I—then two and a half—was once looking out the car window and
+spotted a school bus, and then asked why it was driving backwards. When they informed me
+that it wasn't, I was completely baffled by how the bus could appear to be moving backwards
+while it was really driving forwards. Then, when I was around 4, and was taught about gravity, I
+couldn't stop wondering what mysterious force was preventing the moon from crashing into
+Earth.
+Later, things came to a head when my ski coach taught 5-year-old me how to carve. I distinctly
+remember him asking which spot had the highest speed and which had the highest acceleration
+(a question oddly similar to 2021 F=ma #13). I answered correctly, and he asked me how I
+figured it out. I said that I could feel it. Perhaps physics does shape the way I perceive the
+world.
+In elementary school, I was full of dreams. I self-published my first picture book at the age of 6
+(and planned to write 8 more sequels, in order to beat J.K. Rowling). I set the goal of solving
+cold fusion by the age of 10; I wanted to build my own cell service network to outcompete AT&T.
+The list goes on. But of course, most of them popped. Yet, when my school allowed me to take
+middle school physics as a 4th grader, my dreams started to get real.
+After mastering the subject at a middle-school level, I naturally wanted to take on
+algebra-based high school physics. In 5th grade, I began my voyage of serious learning in
+Physics with AP Physics 1. I remember sitting there, just having finished Algebra 1 (not even
+trig!!), being surrounded by a room of high schoolers. Things were pretty rough in the beginning.
+But before I knew it, I was able to draw free-body-diagrams and fluently used vectors and trig
+functions. When I took AP Physics 2 the year after, concepts like ““quantum physics”” and
+special relativity felt like a breeze. In 7th grade, I managed to score a 5 on the AP Calculus BC
+test by simply following along an AP Physics C: Mechanics class. Soon, I was diving into more
+advanced math courses as well, like Mutli-Variable Calculus in 8th grade and Linear Algebra
+and Differential Equations in 9th in order to pursue more advanced studies in physics.
+Olympiad physics turned out to be totally different from the APs. I studied really hard for the
+F=ma in 6th grade, but didn't pass. Nonetheless, the training was invaluable for helping me
+better understand concepts and improving my problem-solving skills. In 7th grade, I passed
+F=ma, and in 8th grade, I made it onto the US Physics team, where I attended virtual camp
+throughout the summer. It was really awesome to meet with other kids as passionate about
+physics as me, and I particularly enjoyed competing to be the first to submit a solution to the
+problem of the day. I am incredibly excited to attend the camp again in June, where I'll be able
+to meet others (in person this time!) who share this passion for physics.
+My journey into the world of physics would not be possible without my teachers. I owe a lot of
+my success in the subject to my high school physics teacher Dr. Mark Hurwitz, who has been
+inviting me to high school physics competitions since I was in 5th grade. I'm grateful for his
+encouragement and trust in me, such as making me a project lead for USAYPT 2023 as a
+freshman. I'd also like to thank the Nueva School for providing me with such a rich and flexible
+learning environment. Lastly, I want to share my school's motto of “learning by doing,” which
+inspires me to take on challenges even when I don't feel fully prepared for them.
+
+That's such an idealized view of passion that that phrase, or variations of it (replace
+physics with any other interest: astronomy, math, etc.), has become somewhat of an inside joke
+among my schoolmates (it stemmed from a presentation in which my friend used that as an
+opening line, which we found hilarious). But the funny thing is, my autobiography from last year
+can probably be reduced to that sentence. I wrote about my initial amazement, my continued
+fascination, my wondrous exploration, and very little about the grind—when it felt like physics
+didn't love me back, when it was more about the progress than the physics.
+I do indeed love physics very much. I love that it provides such exact, complete, and
+mathematical explanations about our world. Explanations that let you stare out the window, look
+at the rainbow (USAPhO 2022/A3!), and say, “I know why.” From the firing of neurons (USAPhO
+2019/B1!) to the shimmering colors on a CD, being able to draw a line of reasoning back to
+basic principles in physics is so inherently satisfying for me. This is passion. If it weren't for this
+inherent enjoyment I found, I wouldn't have been able to keep coming back and keep learning
+enough to get to this point.
+But the other half of my journey was something different—it was drive. I remember sections of
+textbooks like Morin where I most definitely was not feeling that fire for physics burning in my
+chest. But I pushed through and read through the gritty details, chasing that punchline at the
+end of the section / chapter (e.g. angular momentum works!). And especially in the week or two
+before the USAPhO, this feeling of drive would take over. I would go through practice test after
+practice test in that period to make sure I was ready. And this behavior of course derived from
+the fact that the USAPhO is a competition, not from any inherent enjoyment of physics.
+I mention this because I think this part of studying, especially in the context of academic
+competitions, is rarely talked about. In general, we like to present our journeys as neat and tidy
+and smooth-sailing—like my opening line—because that's a lot more aesthetically pleasing. But
+the reality is that physics hasn't become my life. I like to do other things as well (see my
+hobbies :P), and there are times when these other activities may be more appealing than
+physics. That's when the external motivation and drive kicks in—whether this stems from 
+wanting to make more progress and get to the next “level” of physics knowledge or from
+participating in the physics Olympiads.
+I believe that these periods of externally motivated progress are necessary to get through
+periods of lulls in your passion and are also especially natural in the context of competitions. But
+at the same time, running on this sort of motivation for a long time is conducive to burnout, at
+least for me. And when burnout does occur for me, I always find it helpful to go back to where it
+started. I sit back, look at the physics I've learned in the last “grind”, and try to find the little
+things that connect to our real world (atmospheric physics from thermodynamics! Rings of
+Saturn from the tidal forces!). And as I do, I'm reminded of the little moments of discovery and
+awe throughout my life: watching my physics club advisor create sparks with steel balls on
+paper, my 6th grade science laser lab, and reading the Magic School Bus. These moments
+(passion) were what got me on physics in the first place, and it's chasing those moments (drive)
+that have kept me around all these years. So, I guess to summarize, I'm just trying to say my
+journey with physics was a combination of passion and drive, and I think that's OK—it doesn't
+have to be a Romeo and Juliet story for you to do well at something.
+Anyways, with all that being said, it's really not that deep (bro)—I'm just excited to enjoy physics
+with 19 other nerds at camp!
+
+Do you know what it's like to get everything you've wanted? I think I have an idea.
+I have to admit that I was blessed from the start. I had a head start as early as kindergarten,
+when I went to full-day kindergarten. Then, around 3rd grade, I started doing Kumon
+Math--against my will, actually; I used to go on “strikes” and sacrifice video game privileges to
+make a point of not doing the Kumon homework. By 7th grade, I was far enough ahead that I
+skipped a grade level of math and quit Kumon, after which point I loved math. This went further,
+and my high school let me take college classes including Calculus freshman year. I'm incredibly
+grateful to my parents and my school for these opportunities (yes, including Kumon).
+But this isn't why I tried so hard to be a part of the US Physics Team. I watched countless
+YouTube videos about black holes in elementary school and self-studied physics on Khan
+Academy during COVID shutdowns, but I always wanted more. I decided, or rather my addictive
+personality decided, that I would continue to learn physics.
+Using resources like Khan Academy and MIT OCW, I had fun completing coursework up through
+some undergraduate physics and math (to anyone aspiring to self-study physics, these are
+fantastic resources, and they're totally free). I'll admit, I struggled significantly through the
+harder courses, but the satisfaction of a victory heavily outweighs the pain of the struggle--a
+philosophy that is 100% the reason why lifting is so fun. I got through most of the available OCW
+resources, but I wasn't content with just the knowledge--I wanted more. So I shifted my focus to
+Physics Olympiad, which let me set even more ambitious goals than when I just learned for the
+sake of learning.
+Despite studying hard, I didn't pass the F=ma test the first two times, but the skills I gained
+along the way make life seem so much simpler and easier to understand--not to mention how
+studying physics taught me how to understand the physical world. Sometimes I can't go to sleep
+at night because I'm trying to solve in my head a physics problem inspired by something I saw
+that day.
+This year, I was optimistic but did not truly expect to get past the USAPhO exam because of
+“continuity.” The day I received the Physics Team Invitation email, I was checking my email in
+Biology when I saw it and accidentally flung my phone across the room in excitement--can you
+blame me when I've been studying for this for years?
+Like me, you may have wondered what “a dream come true” is like. I vaguely understand now
+what it's like: I want more.
+Again, thanks a million to my parents and my school for giving some priceless opportunities to
+me. I'm also grateful for the emotional (and financial) support from my family on this journey,
+which is an important step toward my greater goal of contributing to the study of physics as a
+physicist. I appreciate the work done by Khan Academy and MIT; their resources are genuine
+evidence we live in a utopia. Finally, Brobdignagian thanks to Kevin Zhou for his handouts; I will
+be spreading awareness of these on the internet since they're so helpful.
+
+My first encounters with physics were likely from watching YouTube about black holes. At the time I
+was awed by how black holes could bend space and even attract light, but I was also completely
+baffled. The younger me ended up thinking subjects like black holes, and other subjects like relativity
+and whatnot were the things top scientists studied, and I would probably only ever be able to
+appreciate watered down versions of their work. Well, I was definitely not expecting how things
+would turn out.
+I loved soccer in primary school and played in Irvine Slammers FC. Soccer game gave me a lot fun.
+In middle school, I began to see the beauty of math, and started learning ahead, going through
+multiple math textbooks in short period of time. Although I haven’t achieved much in math
+competitions (which I plan to change). In the summer of 2022, I was introduced to physics.
+I found physics amazing, as I could now begin to understand how the universe worked.
+Coincidentally, in history we were learning about the Enlightenment and how Newton came up with
+his three fundamental laws. Newton’s ideas created a new way of looking at the universe and people
+started looking at it “as one huge, regulated, uniform machine that worked according to natural laws,”
+(quoted from our History textbook) and they were probably amazed as they saw the mysteries of the
+universe, which had seemed so unfathomable, unfold before their eyes. And now, about three and a
+half centuries later, as I sat at my desk learning physics, I felt the exact same way those people had
+probably felt.
+I was able to learn physics pretty quickly, (maybe because I had established a good foundation in
+math, or maybe it was just because I was really enthusiastic and spent a lot of time, and I surely had a
+really awesome teacher) and I finished mechanics in about five months, prepared for the F=ma for
+about two months, and passed. Although there were quite some ups and downs in the process. After
+that, I went over some EM, relativity, and thermodynamics, crossed my fingers for good luck, and
+attended the USAPhO. Afterwards I found that I had qualified for the US physics team, which was
+quite a surprise, albeit a pleasant one.
+Now I feel very honored that I’ve been invited to the US physics team, and I can’t wait to meet the
+other campers in person! Finally, I’d like to thank my parents for their continual support and
+encouragement. I’d like to thank Dr. Liu who gave me her enthusiasm for physics. I’d like to thank Dr.
+Tang for teaching me EM, and I’d like to thank Professor Walter Lewin at MIT for his fun-filled physics
+lectures (truly classic). And last but not least, I’d like to thanks Mr. Nzeza and Mr. Siegel in Pine View
+School for their help in registering and proctoring my F=ma and USAPhO exams, as well as guiding me
+in the AP physics lab. 
+
+Now, where did my physics journey start?
+Ever since elementary school, I have loved science, and I saw a flier for Science Bowl tryouts one day in 6th grade.
+Very soon afterwards, I signed up and prepared for the day of the tryouts by spewing random questions at my parents.
+Excitement was rushing through me as I buzzed on the questions, and I was absolutely ecstatic when I discovered I had
+made the team!
+Reaching out to me, one of the coaches asked what subject I was interested in the most, and I decided to focus on
+physics.
+Going to middle school, I still carried that same love for Science Bowl with me.
+On the day of the 7th grade Science Bowl team tryouts, however, I didn’t do that well and missed the team.
+Not one to give up after a small setback, I decided to grind textbooks in order to bounce back and do better for 8th
+grade.
+Nothing felt better than the day I participated in the final buzzer round of tryouts and qualified for the team that year.
+Although I didn’t make the A team, I still miraculously got to Science Bowl nationals with the B team, which only
+solidified my passion for physics!
+Going to Science Bowl Nationals sparked many other STEM competition interests of mine, most notably with the AMC
+series and with the F=ma.
+In late 8th and early 9th grade, I took F=ma courses, and the excellent guidance I received helped me qualify for the
+USAPhO that year in 2020!
+Very sadly, however, the USAPhO was canceled that year, but I resolved myself to dive deeper into the fascinating world
+of physics beyond mechanics and improve.
+Every problem I struggled on and every concept I learned only helped to fuel my motivation, as each increase in my
+understanding felt deeply satisfying.
+Yielding better competition results would require me to pick out some high quality books, so I chose to study HRK,
+Mechanics by Morin, and E&M by Purcell.
+Of course, my most important guides in the journey through physics and towards qualifying for the Camp have been my
+mentors. Shoutout to Kevin Zhou and Dr. Tang.
+Under them, I’ve been motivated to work hard to pursue this goal, and I couldn’t have made it this far without them.
+Ultimately, the day of the USAPhO came, and I felt that I was as well prepared as I possibly could be.
+Pressure was high and there were many moments where I felt like I would crack, but I did my best to stay focused and
+keep making progress.
+Nearly four years of effort paid off in the end.
+Each day that passes reminds me of how soon camp will be, and I couldn’t be more excited to have this amazing
+opportunity to learn physics with peers that love physics as much as I do!
+Very soon, I hope to improve my lab skills at camp.
+Every new tool I learn there will only make me more passionate about physics, and hopefully I’ll carry this love for physics
+with me wherever I go!
+Reader, if you’re still here, look at the first letter of each sentence
+
+In seventh grade, I read Richard Feynman’s Surely You’re Joking, Mr. Feynman! Through stories of working on
+the Manhattan Project, cracking safes, and presenting in front of Albert Einstein, the scenes that have
+continued to play vividly in my mind feature Feynman’s impressive ability and Hans Bethe’s even more
+impressive ability to make arbitrary arithmetic calculations to great precision in their heads. Despite the
+seemingly mathematical nature of such a gift, the understanding that goes into such a capability is in fact
+highly physics related, as physicists are often the most familiar with arithmetic manipulation of common
+physical or mathematical constants. Reading this and Feynman’s other books sparked in me a profound
+interest in physics that has only grown over the years, bringing me to where I am today.
+The next step in my physics journey lay in a deep dive in learning all the facets of physics. Despite the daunting
+heaps of content that awaited me, a ceaseless curiosity to explore further and to discover the inherent causes
+of various physical phenomena drove my learning. What is the physical meaning of displacement current?
+Why is a sonic boom a double boom instead of single? Is Faraday’s Law an underlying cause of related
+phenomena or merely an observation that is governed by a more fundamental principle? From each new
+concept or fact that I learned, there followed a flurry of questions essentially asking “Why?” or “What if?”
+Such investigations led me onto paths that would sometimes end with a perceptive explanation from a
+teacher or textbook or with a persistent search on Physics Stack Exchange. My unanswered questions
+continue to accumulate in a Google Doc. Perhaps some of them will be answered at camp. For me, physics has
+embodied a real-life manifestation of Socrates’ famous line: “All I know is that I know nothing.” The more I
+learn, the more I find I do not know, and this only fuels my drive to seek further.
+Besides pursuing knowledge on my own, I enjoy sharing physics with others as well. When I established the
+Physics Club at my high school, I initially aimed to prepare members for physics competitions. However, I soon
+found that my preaching of F=ma problems did not appeal to the majority of my audience. With an adjusted
+mission statement, our club now focuses primarily on bonding through labs, toying with new physics
+equipment, and enhancing classroom learning. I have come to appreciate that a passion for physics can
+present itself in various shapes and forms. After all, what can beat hearing a garbled rendition of Happy
+Birthday from a simple electronic sound box after realizing that the snap circuit wire wasn’t attached
+properly? Recently, our advisor challenged us to recruit girls to our currently all-male club. How to increase
+the female presence? Yet another question to seek an answer to at camp.
+My physics journey will stretch far off into the distant future, and I am greatly indebted to the numerous
+individuals who have helped me to arrive at this checkpoint. Thank you to my parents for their unconditional
+love and to my dad for being my anchor when I doubt my physics intuition. Thank you to Dr. Tang for guiding
+me through my study of higher level physics, to Mrs. Jenny for her cheers, and to Mrs. Garber for her support
+of our club and confidence in my leadership. And thank you to Mr. Feynman, who certainly was not joking
+when he lit the filament to the lightbulb of physics inquiry that continues to shine brighter and brighter.
+
+From a young age, I have always been fascinated with math and the sciences. For example, I
+“discovered” Fermat’s Little Theorem and the sum of n cubes formulae in third grade. However, I
+almost entirely focused on math until 5th grade, when I was gifted the Feynman Lectures on
+Physics by my family. I tried reading and learning from them, but I realized that I needed
+computational example problems and exercises to fully understand the material. In 6th grade, I
+started working through Fundamentals of Physics: by Halliday, Resnick, and Walker instead,
+which turned out to be extremely helpful to me. I kept working on the book through 6th and 7th
+grade, finishing it in the middle of 8th grade. Luckily, several of my family members are also
+physicists, so I asked them occasionally for help whenever I got stuck on a physics problem. As
+a family, we often have science-related discussions over the dinner table. In 7th grade, I took my
+first F=ma exam. Despite solving around 20 questions, I made a ton of mistakes, and I ended up
+only getting a 12, 3 points shy of the cutoff. However, in 8th grade, I got a 20 on the F=ma exam
+and qualified for USAPhO 2022. I wasn’t expecting much from my first performance on the
+USAPhO, but I managed to get around 3.5 to 4 solves in total. I was pretty proud of my
+performance, but I was expecting a bronze medal, maybe even a silver medal if I got lucky.
+Meanwhile, I also took the USAJMO that year for the first time, and I managed to get a 28. To
+my surprise, this led me to receive an invitation to MOP 2022, which I gladly accepted. 2 days
+later, to my even greater surprise, I also got an invitation to the 2022 US Physics Team.
+Unfortunately, I had to decline this, as it overlapped with MOP and I accepted that invitation
+already. This year (2023), I once again qualified and took the USAPhO, as well as the USAMO
+and USNCO. My 4.5-5 solves on the USAPhO got me another invitation to the US Physics
+Team, and, to my surprise, my score of 24 on the USAMO barely qualified me for MOP 2023. I
+decided to go with choosing the US Physics Team this year, as I am allowed to take the USA
+TSTST (the exam given at MOP) remotely. I hope that participating in the US Physics Team
+would greatly help me in the future if I chose a career in physics.
+
+
+This year, I am participating in the event that allows me to join the 2023 U.S Physics
+Team because I have been working very hard to reach this level. I think it is an honor to be able to
+represent my country this year in physics. I don’t think I could have been able to compete at this level if
+it were not for tutors, and the people that support me, such as my parents. I feel that it is important for
+me to succeed in math and physics because I am not only representing myself, but I am representing my
+school and my state. I have worked very hard to get to this level, and I am very grateful for the
+opportunities that I have received. I love being pushed to my limits in terms of learning, and I always
+want to gain as much information about math and physics as possible, especially because there is still
+more to discover. In my journey to reach this level, I have encountered challenges and obstacles, but I
+have always kept a positive attitude and persevered through them. I have developed a strong work ethic
+and have learned to manage my time effectively in order to balance my academic commitments and
+personal life. I believe that being disciplined and focused are essential qualities that have helped me to
+achieve my goals in physics. Aside from math and physics, I enjoy taking a break to enjoy other subjects.
+This year, my favorite subject is anatomy and physiology, and in general, I believe I have enjoyed
+biological sciences the most. A lot of my friends don’t believe that I do anything outside of math and
+physics, but I enjoy playing games, and playing instruments. I really loved performing as a thespian this
+year at my school, and it gave me more perspective about activities that aren’t math and physics related.
+I’m a big fan of languages, I speak 5 languages (as of writing this), and I hope to dedicate more time to
+learn more. Living in the country I am able to have several pets, cats and dogs and even a horse, which I
+care for and ride, which is a pleasant way to spend time. In addition to my academic and personal
+pursuits, I’ve been volunteering at a cat rescue since I was around 10 years old. This gives me a chance to
+help animals in need, as well as give back to my community. Looking ahead, I am excited to continue my
+journey in physics and see where it takes me. I hope to use my knowledge and skills to make a positive
+impact on the world and contribute to scientific advancements. Beyond that, I am open to exploring
+different paths and discovering new passions. Ultimately, I believe that with hard work and dedication,
+anything is possible.
+
+Since I was a child, I had an insatiable curiosity about the world around me, but it was in fifth grade that I
+discovered the language that could explain it: physics. My curiosity was piqued by a children's book on Albert
+Einstein, an outcast who unlocked the mysteries of the universe by thinking outside the box. Enthralled by his
+ideas, I begged my parents to buy me my first physics textbook and immersed myself in it as if it were a gripping
+novel.
+Middle school only reinforced my love for physics. I can still remember the sense of awe I felt when my seventhgrade teacher demonstrated the seemingly magical property of magnets repelling and attracting each other. The
+invisible forces at work fascinated me and spurred me to delve deeper into the subject, not for the grades, but for
+the pure joy of understanding. I would stay up late, solving problem after problem, each one a thrilling puzzle.
+I was first drawn to the world of physics through my own experiences with the world around me — water boiling
+in a kettle, a magnet attracting a paperclip, or the spinning wheels of my toy car. From these daily observations,
+my interest grew, transforming from a childhood curiosity into a genuine passion. Throughout my participation
+in the school science fairs, and junior high physics lessons, I began to apply names and theories to phenomena
+that I had observed and pondered for years.
+In the eighth grade, my older brother introduced to our family dinner the perplexing puzzle of a ball sliding down
+an inclined plane. This sparked hours of lively debate and deep contemplation, permanently igniting my
+fascination with the intricacies of physics. Initially, my foray into the world of competitive physics was marked
+by trials and tribulations, with many problems seeming impenetrable. Nevertheless, driven by my passion, I
+persevered. Gradually, the mysteries of the physical world started unveiling themselves. I was able to
+calculate the kinematics of a wide array of objects — from cars and spinning tops to oscillating pendulums and
+planets in elliptical orbits. The world took on a new lucidity that fed my growing love for physics.
+My love of problem solving and my desire to understand the universe merged into a deep passion for physics.
+This passion, which I hope to further cultivate and share with others, has been an integral part of my journey. It
+was a huge honor to be selected for physics camp this summer. It provides an opportunity to refine my problemsolving skills, deepen my understanding of the universe, and interact with a dedicated community of physicists.
+I would like to thank my family and all the mentors who have guided and supported me in my relentless pursuit
+of physics. Their influence has been invaluable and I look forward to the new challenges and learning ahead.
